@@ -41,6 +41,8 @@ public class Beecrowd_Numeros_Positivos {
         }
     }
 
+    public static 
+
     public static void imprimir(int qntdPos){
         System.out.println(qntdPos + " valores positivos");
     }
